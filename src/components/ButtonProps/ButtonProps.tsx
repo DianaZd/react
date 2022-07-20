@@ -4,7 +4,7 @@ import './ButtonProps.css'
 const ButtonProps = () => {
     return (
         <button className='button'>
-            Click2 me
+            Click2
         </button>
     );
 };
